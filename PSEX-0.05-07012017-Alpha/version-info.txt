@@ -1,0 +1,11 @@
+Project Sunrise Extreme
+Version 0.0
+Release Date: 07/01/2017
+Build Status: Alpha
+
+Notice: Build Status of Alpha and Beta are unstable. Use at your own risk. Magic Gaming recmends you use the stable Release builds.
+
+Change Log:
+
+
+Copyright 2017 Magic Gaming
